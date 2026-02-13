@@ -1,2 +1,2 @@
-# opskrifter
-Open Source Madviden
+# Mange gode opskrifter
+Open Source Madglæde
