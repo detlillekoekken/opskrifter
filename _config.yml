@@ -1,7 +1,7 @@
 title: "Det Lille Køkken"
 locale: "da-DK"
 description: "Min samling af opskrifter"
-url: "https://detlillekøkken.dk"
+url: "https://xn--detlillekkken-jnb.dk"
 
 # Tema - Vi fjerner @4.24.4 for at undgå 404 fejlen
 remote_theme: "mmistakes/minimal-mistakes"
