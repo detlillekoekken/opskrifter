@@ -10,7 +10,6 @@ tags:
   - kalvekød
 header:
   teaser: /assets/images/frikadelle-teaser.jpg
-author_profile: true
 ---
 
 
