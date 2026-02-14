@@ -31,14 +31,14 @@ defaults:
       layout: "single"
       author_profile: true
       read_time: true
-      share: true
+      share: false
       comments: false
 
 footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/janushoi"
   copyright: "© 2026 Det Lille Køkken - Alle opskrifter er til fri afbenyttelse."
       
 # author:
