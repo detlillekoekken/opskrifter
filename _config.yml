@@ -29,7 +29,7 @@ defaults:
       type: "posts"
     values:
       layout: "single"
-      author_profile: true
+      author_profile: false
       read_time: true
       share: false
       comments: false
