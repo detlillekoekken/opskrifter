@@ -1,6 +1,5 @@
 ---
 layout: home
-title: " "
 author_profile: true
 header:
   overlay_image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=2070"
