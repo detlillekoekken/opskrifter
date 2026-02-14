@@ -1,10 +1,17 @@
 ---
-title: "Klassiske frikadeller"
-categories: [Opskrifter]
+layout: single
+title: "Frikadeller"
+date: 2026-02-14
+categories:
+  - opskrifter
+tags:
+  - aftensmad
+  - svinekød
+  - kalvekød
+header:
+  teaser: /assets/images/frikadelle-teaser.jpg
 author_profile: false
 ---
-
-
 
 
 
