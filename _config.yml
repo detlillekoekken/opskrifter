@@ -42,12 +42,12 @@ footer:
   copyright: "© 2026 Det Lille Køkken - Alle opskrifter er til fri afbenyttelse."
       
 # author:
- #  name: "Janus"
- #  bio: "Madentusiast"
- #  avatar: "/assets/images/mig.jpg" # Du kan uploade et billede senere
- #  location: "Danmark"
- #  links:
- #    - label: "Instagram"
- #      icon: "fab fa-fw fa-instagram"
- #      url: "https://instagram.com/janushoi"
+  name: "Janus"
+  bio: "Madentusiast"
+  avatar: "/assets/images/mig.jpg" # Du kan uploade et billede senere
+  location: "Danmark"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/janushoi"
 
