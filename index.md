@@ -6,12 +6,18 @@ header:
 //  caption: "Velkommen til mit køkken"
 excerpt: "Min samling af opskrifter - Open Source madglæde."
 ---
+
 <style>
-  /* Skjul titlen i topbjælken kun på denne side */
-  .masthead__menu-item.masthead__menu-item--lg, 
-  .site-title {
+  /* Skjul hele topbjælken og fjern dens fylde kun på forsiden */
+  .masthead {
     display: none !important;
   }
+  
+  /* Sørg for at hovedindholdet rykker helt op */
+  .initial-content {
+    margin-top: 0 !important;
+  }
 </style>
+
 
 Herunder findes de allernyeste opskrifter.
