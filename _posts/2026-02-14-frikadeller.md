@@ -1,5 +1,6 @@
 title: "Klassiske frikadeller"
 categories: [Opskrifter]
+author_profile: false
 ---
 
 ## Ingredienser
