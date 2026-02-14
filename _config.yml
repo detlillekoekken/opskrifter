@@ -33,6 +33,13 @@ defaults:
       read_time: true
       share: true
       comments: false
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+  copyright: "© 2026 Det Lille Køkken - Alle opskrifter er til fri afbenyttelse."
       
 # author:
  #  name: "Janus"
