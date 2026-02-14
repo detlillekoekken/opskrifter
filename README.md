@@ -1,2 +1,2 @@
-# Mange gode opskrifter
-Open Source Madglæde
+# Mange gode og smagfulde opskrifter
+Open Source Madglæde til folket
