@@ -32,4 +32,7 @@ defaults:
       read_time: true
       share: false
       comments: false
+
+
+include: ["_pages"]
       
